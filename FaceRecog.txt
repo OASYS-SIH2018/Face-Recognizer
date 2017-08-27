@@ -1,0 +1,3 @@
+create dataset-datasetcreator
+train the recog-trainer
+detector-detect
